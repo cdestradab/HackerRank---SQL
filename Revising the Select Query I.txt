@@ -1,0 +1,8 @@
+-- SQL > Basic Select > Revising the Select Query I
+-- https://www.hackerrank.com/challenges/revising-the-select-query
+
+SELECT * FROM CITY WHERE POPULATION > 100000 AND COUNTRYCODE = 'USA'
+
+-- Mejor solución:
+-- https://www.hackerrank.com/challenges/revising-the-select-query/forum/comments/1182681
+-- Es mas ordenada y legible.
